@@ -8,3 +8,11 @@
 🌱 learning more about AI integration with existing solutions.
 
 💬 Ask me about Python, AI, MLOps, or anything tech-related.
+
+## My Github Stats
+
+![Github Stats 3](https://github-readme-stats.vercel.app/api?username=arindm007)
+
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=arindm007)
+
+![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=arindm007)
