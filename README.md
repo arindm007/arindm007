@@ -1,14 +1,41 @@
-# Hello, I'm Arindam Chakraborty!
+# 👋 Hello, I'm Arindam Chakraborty!
 
-👨‍💻 Python and Full-Stack Developer specializing in AI and MLOps 🤖.
+🚀 Passionate Developer | 🧠 AI Enthusiast | ⚙️ MLOps Explorer
 
-🌐 Check out my [LinkedIn](https://www.linkedin.com/in/arindam-chakraborty-b2a416211).
+I'm a Computer Science graduate with a strong foundation in **AI, Machine Learning, and Backend Development**. I love building scalable, intelligent systems that bridge real-world problems with cutting-edge technologies.
 
-🔭 I’m currently working on some cool AI projects.
-🌱 learning more about AI integration with existing solutions.
+---
 
-💬 Ask me about Python, JavaScript ,React, AI, MLOps, or anything tech-related.
+### 🔧 Tech Stack & Interests
 
+- 🐍 Python | 🧪 Flask | FastAPI
+- 🤖 Machine Learning | Deep Learning | Computer Vision
+- ☁️ MLOps | Model Deployment | Docker | Git | AWS (Free Tier)
+- 🧩 LangChain | Open-Source LLMs | Edge-AI | IoT Integration
 
+---
 
-<!--![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=arindm007)-->
+### 🌱 Currently Learning & Working On
+
+- Integrating LLMs with real-world apps using **LangChain**
+- Building **Autonomous Systems** with sensor fusion & live video stream processing
+- Developing **AI dashboards** with live data and model outputs
+- Exploring **Vision Transformers** and **DETR architectures** for object detection
+
+---
+
+### 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/arindam-chakraborty-b2a416211)
+- 📧 arindamchakraborty6.10@gmail.com
+
+💬 Feel free to reach out for collaborations, interesting projects, or just a good tech chat!
+
+---
+
+<!-- GitHub Stats (Uncomment if needed) -->
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arindm007&show_icons=true&theme=radical) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arindm007&layout=compact) -->
+
+---
+
