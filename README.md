@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Arindam Chakraborty!
 
-🚀 Passionate Developer | 🧠 AI Enthusiast | ⚙️ MLOps Explorer
+🚀 Passionate Developer | 🧠 AI Enthusiast 
 
 I'm a Computer Science graduate with a strong foundation in **AI, Machine Learning, and Backend Development**. I love building scalable, intelligent systems that bridge real-world problems with cutting-edge technologies.
 
