@@ -17,7 +17,8 @@ I'm a Computer Science graduate with a strong foundation in **AI, Machine Learni
 
 ### 🌱 Currently Learning & Working On
 
-- Integrating LLMs with real-world apps using **LangChain**
+- Integrating LLMs with real-world apps
+- Building a serverless, real-time multimodal AI agent 
 - Building **Autonomous Systems** with sensor fusion & live video stream processing
 - Developing **AI dashboards** with live data and model outputs
 - Exploring **Vision Transformers** and **DETR architectures** for object detection
